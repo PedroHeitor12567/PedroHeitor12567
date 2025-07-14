@@ -58,6 +58,3 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 <p align="center">
   ⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios 😄
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroheitor12567&show_icons=true&locale=en" alt="pedroheitor12567" /></p>
