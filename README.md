@@ -16,17 +16,13 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 
 ---
 
-## 🛠️ Tecnologias que utilizo
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+## 🧰 Tecnologias que uso
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,js,git" alt="Tecnologias" />
+</p>
 
-</div>
 
 ---
 
