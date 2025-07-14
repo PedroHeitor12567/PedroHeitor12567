@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Bem-vindo ao meu perfil, sou Heitor Pedro! 👋</h1>
+<h1 align="center">🚀 Bem-vindo ao meu perfil, sou Pedro Heitor! 👋</h1>
 
 <p align="center">
   🎓 Aluno de Informática no <strong>IFRN - Campus Pau dos Ferros</strong> <br>
