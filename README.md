@@ -1,5 +1,5 @@
-<h1 align="center">👋Olá! Me chamo Pedro Heitor</h1>
-<h3 align="center">💻Sou aluno do curso de informática do IFRN-PDF, tenho como objetivo primário ingressar no NADIC e construir uma carreira como desenvolvedor Back-End!</h3>
+<h1 align="start">👋Olá! Me chamo Pedro Heitor</h1>
+<h3 align="start">💻Sou aluno do curso de informática do IFRN-PDF, tenho como objetivo primário ingressar no NADIC e construir uma carreira como desenvolvedor Back-End!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
