@@ -19,7 +19,7 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 
 ## 🧰 Tecnologias que uso
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,js,git" alt="Tecnologias" />
 </p>
 
