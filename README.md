@@ -37,10 +37,12 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroheitor12567&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub de Heitor Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroheitor12567&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub de Pedro Heitor" 
+  width="400"/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheitor12567&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas por Heitor Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheitor12567&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas por Pedro Heitor" 
+  width="400"/>
 </div>
 
 ## 📬 Como me encontrar
