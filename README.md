@@ -42,7 +42,7 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheitor12567&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas por Pedro Heitor" 
-  width="400"/>
+  width="200"/>
 </div>
 
 ## 📬 Como me encontrar
