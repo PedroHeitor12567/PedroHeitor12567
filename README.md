@@ -17,7 +17,7 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 ---
 
 
-## 🧰 Tecnologias que uso
+## 🧰 Tecnologias que utilizo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,js,git" alt="Tecnologias" />
@@ -39,7 +39,6 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroheitor12567&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub de Heitor Pedro" />
 
-  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheitor12567&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas por Heitor Pedro" />
 </div>
