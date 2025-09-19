@@ -30,7 +30,7 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 
 - 📚 Estudando e praticando **desenvolvimento de APIs RESTful**
 - 💼 Buscando oportunidades de participar de projetos no **NADIC**
-- 🚀 Consolidar minha carreira como **dev back-end**
+- 🚀 Consolidar minha carreira como **dev full-stack**
 
 ---
 
