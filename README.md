@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Aluno de Informática no <strong>IFRN - Campus Pau dos Ferros</strong> <br>
   💡 Apaixonado por tecnologia e desenvolvimento Back-End <br>
-  🎯 Sonho em fazer parte do <strong>NADIC</strong> e consolidar minha carreira como <strong>Desenvolvedor Back-End</strong>
+  🎯 Sonho em fazer parte do <strong>NADIC</strong> e consolidar minha carreira como <strong>Desenvolvedor Full-Stack</strong>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e aprendizados que me ajudem a crescer c
 ## 🧰 Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,js,git,java,springboot" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,js,git,java,spring" alt="Tecnologias" />
 </p>
 
 
